@@ -2,9 +2,9 @@
 
 ## Introduction
 
-ShooterGame LTS (Long-term support) is a port of ShooterGame Unreal Engine 5 with the goal to modernize, fix and generally maintain the now defunct & adandoned ShooterGame. Support starts at Unreal Engine Version 5.1.
+ShooterGame LTS (Long-term support) is a port of ShooterGame to Unreal Engine 5 with the goal to modernize, fix and generally maintain the now defunct & adandoned ShooterGame. Support starts at Unreal Engine 5.1.
 
-If you're like me, Lyra felt a little bit overwhelming and over-engineered and more of a showcase than an appropriate replacement for ShooterGame. This project was made for you. The source code may look a little different as it has been reorganized. Here's a quick sum up of the notable features i've changed so far:
+If you're like me, Lyra felt a little bit overwhelming, over-engineered and more of a showcase than an appropriate replacement for ShooterGame which acted for many as a template. This project exists to solve that problem. The source code may look a little different as it has been reorganized. Here's a quick sum up of the notable features i've changed so far:
 
 | Feature                   | Status |
 | -------------             | ------------- |
